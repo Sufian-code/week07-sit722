@@ -1,3 +1,5 @@
+Checking GitHub CLI
+
 # Week 07: Continuous Integration (CI) Pipeline for Backend Microservices
 
 ## Continuous Integration Explained
